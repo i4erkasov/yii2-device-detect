@@ -1,5 +1,9 @@
-yii2-extension
+yii2-device-detect
 ==============
+[![Latest Stable Version](https://poser.pugx.org/i4erkasov/yii2-device-detect/v/stable)](https://packagist.org/packages/i4erkasov/yii2-device-detect)
+[![Total Downloads](https://poser.pugx.org/i4erkasov/yii2-device-detect/downloads)](https://packagist.org/packages/i4erkasov/yii2-device-detect)
+[![License](https://poser.pugx.org/i4erkasov/yii2-device-detect/license)](https://packagist.org/packages/i4erkasov/yii2-device-detect)
+
 Device Detect extension for Yii2"
 
 Installation
